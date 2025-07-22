@@ -22,22 +22,19 @@ I'm a **Software Developer** specializing in **Backend** and **AI Agent Systems*
 
 ## 💼 Featured Projects
 
-### 🧠 [Addis Hiwot](https://github.com/neba378/addis-hiwot) – Mental Health AI Platform  
+### 🧠 Addis Hiwot – Mental Health AI Platform  
 A supportive platform for mental health recovery with anonymous AI chat (LLMs + RAG), scheduling, and educational content.  
-**Stack:** FastAPI, PostgreSQL, React, LangChain, Docker
+**Stack:** FastAPI, PostgreSQL, React, LLM, Docker
 
-### 🤖 [AI Job Hunter](https://github.com/neba378/ai-job-hunter) – Telegram AI Agent  
+### 🤖 AI Job Hunter – Telegram AI Agent  
 An intelligent job-scraping Telegram bot that filters jobs by user preferences and reduces search time by 80%.  
 **Stack:** Node.js, TypeScript, FastAPI, Puppeteer, Telegram Bot API
 
-### 🎓 [High School Management System](https://github.com/neba378/highschool-management-system)  
+### 🎓 High School Management System  
 Complete academic management system built with Node.js, MongoDB, and EJS. Uses the MVC pattern and optimized query performance.
 
-### 📝 [Blog Site](https://github.com/neba378/blog-next-shadcn)  
+### 📝 Blog Site 
 A content-rich blog platform built with **Next.js** and **shadcn/ui** featuring responsive design and markdown rendering.
-
-### 📦 [Task Management System](https://github.com/neba378/task-manager-go)  
-Microservice-based system built with Go and Clean Architecture, focusing on security, task scheduling, and modularity.
 
 ---
 
